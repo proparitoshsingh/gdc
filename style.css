@@ -11,18 +11,18 @@ section {
     justify-content: center;
     flex-direction: row;
     align-items: center;
-    background: #066d04;
+    background: #ff3ea5;
 }
 .centerDiv {
     display: flex;
     flex-direction: row;
-    width: 60%;
-    height: 80%;
-    box-shadow: 2px 2px 2px 5px white;
+    width: 60vw;
+    height: 80vh;
+    /* box-shadow: 2px 2px 2px 5px white; */
     padding: 10%;
     align-items: center;
-    background: #57606f;
-    color: white;
+    background: #edff00;
+    color: black;
     flex-wrap: wrap;
 }
 
@@ -31,8 +31,8 @@ button:hover {
 }
 
 .icon_btn {
-    width: 32px;
-    height: 32px;
+    width: 2vw;
+    height: 3vh;
     background-color: #eee;
     background: #C0C0C0;
     background-size: 100% auto;
@@ -45,10 +45,10 @@ button:hover {
     width: 50%;
     order:2;
     padding: 10px;
-    color: black;
-    box-shadow: 2px 2px 2px 4px rgb(83, 76, 76);
+    box-shadow: 2px 2px 2px 4px rgb(0, 0, 0);
     border-radius: 5px;
-    background-color: aqua;
+    color: black;
+    background-color: #00a4cc;
 }
 
 .previous {

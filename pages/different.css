@@ -11,14 +11,14 @@ section {
     justify-content: center;
     flex-direction: row;
     align-items: center;
-    background: #3746cf;
+    background: #fd0967;
 }
 .centerDiv {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    width: 60%;
-    height: 80%;
+    width: 60vw;
+    height: 80vh;
     box-shadow: 2px 2px 2px 5px white;
     align-items: center;
     background: #57606f;
@@ -30,8 +30,8 @@ button:hover {
 }
 
 .icon_btn {
-    width: 32px;
-    height: 32px;
+    width: 2vw;
+    height: 3vh;
     background-color: #eee;
     background: #C0C0C0;
     float: left;
