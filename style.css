@@ -54,6 +54,7 @@ button:hover {
 .previous {
     width: 25%;
     order: 1;
+    text-align: center;
 }
 
 .next {
